@@ -1,0 +1,5 @@
+project: savantenvs/uwebsockets
+target: TopicTree-mined-ffa900b
+cmds:
+  - cmd: /mayhem/TopicTree
+    libfuzzer: true
